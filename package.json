@@ -1,11 +1,7 @@
 {
-  "name": "@prb/foundry-template",
-  "description": "Foundry-based template for developing Solidity smart contracts",
+  "name": "fully-onchain-ipfs-pointer",
+  "description": "Fully On-Chain IPFS Pointer",
   "version": "1.0.0",
-  "author": {
-    "name": "Paul Razvan Berg",
-    "url": "https://github.com/PaulRBerg"
-  },
   "dependencies": {
     "@lazyledger/protobuf3-solidity-lib": "^0.6.0",
     "@manifoldxyz/creator-core-solidity": "^3.0.0",
